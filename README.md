@@ -8,6 +8,7 @@ Las lenguas humanas pueden expresarse por escrito (texto), oralmente (voz) y tam
 
 Los audios, aunque estén en formato digital, hay que procesarlos para transcribirlos en letras o caracteres y, a partir de ahí, entender la pregunta. El proceso de respuesta es el inverso: primero se elabora la oración y luego se “sintetiza la voz”.
 
+#
 
 #### *Componentes del procesamiento del lenguaje natural*
 A continuación, vemos algunos de los componentes del procesamiento del lenguaje natural. No todos los análisis que se describen se aplican en cualquier tarea de PLN, sino que depende del objetivo de la aplicación.
