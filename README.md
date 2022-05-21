@@ -1,5 +1,4 @@
-# PLN
-### *Procesamiento de lenguaje natural*
+# *Procesamiento de lenguaje natural*
 
 El Procesamiento del Lenguaje Natural es el campo de conocimiento de la Inteligencia Artificial que se ocupa de la investigar la manera de comunicar las máquinas con las personas mediante el uso de lenguas naturales, como el español, el inglés o el chino.
 
